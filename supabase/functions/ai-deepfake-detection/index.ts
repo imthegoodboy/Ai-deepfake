@@ -1,6 +1,5 @@
 
-the index.js file which 
-
+ 
 import "jsr:@supabase/functions-js/edge-runtime.d.ts";
 
 const corsHeaders = {
